@@ -1,7 +1,7 @@
 # Личный проект «Типотека» [![Build status][travis-image]][travis-url]
 
 * Студент: [Irina Sadovskaya](https://up.htmlacademy.ru/nodejs/3/user/1084415).
-* Наставник: `Неизвестно`.
+* Наставник: [Алексей Пушников](https://htmlacademy.ru/profile/id476723).
 
 ---
 
